@@ -1,6 +1,7 @@
 numpy
 Pillow
 speechrecognition==3.10.4
+nltk==3.8.1
 pyaudio
 pocketsphinx
 streamlit-webrtc
